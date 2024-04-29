@@ -1,0 +1,36 @@
+.footer-div{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: rgba(226, 226, 226, 0.374);
+}
+.heading{
+    font-weight: 700;
+}
+.foot-logos{
+    margin-top: -10px;
+}
+.p{
+   font-size: 15px; 
+}
+.fAw{
+    margin: 8px;
+}
+.emoji{
+    width: 25px;
+    margin-left: 6px;
+}
+.e{
+    width: 50px;
+}
+.em{
+    width: 40px; 
+}
+.emo{
+    width: 27px;
+    margin-left: 13px;
+}
+.mfooter{
+    background-color:  rgba(226, 226, 226, 0.736);
+}
